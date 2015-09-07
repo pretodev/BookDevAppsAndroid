@@ -2,7 +2,7 @@
 
 ### Criando um Projeto Android 
 Para começar a desenvolver nossa aplicação android, primeiro temos que criar um projeto no Android Studio, nele teremos todos os arquivos necessário para construir um aplicativo completo. O passos seguintes ensinará como criar nosso projeto.
-> Nota: Você já deve ter instalado o Android Studios, se não consulte o capitulo um deste modulo.
+> Nota: Você já deve ter instalado o Android Studio, se não consulte o capitulo um deste modulo.
 
 1. No Android Studio, crie um novo projeto
     * Se não possuir projeto aberto, clique em **Start a new Android Studio project**
@@ -22,6 +22,7 @@ Para começar a desenvolver nossa aplicação android, primeiro temos que criar 
     *  **Title**: titulo da tela. Coloque "PerTA"
     *  **Menu Resource Name**: nome do arquivo xml que possui todos itens do menu dessa tela
 6. Clique em **Finish** para criar seu projeto.
+
 ##### Arquivos do Projeto
 Após um tempo o projeto é criado e podemos ver varios arquivos e pastas criadas:
 1. *app/manifest/AndroidManifest.xml*
