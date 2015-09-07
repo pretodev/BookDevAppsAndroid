@@ -24,7 +24,9 @@ Para começar a desenvolver nossa aplicação android, primeiro temos que criar 
 6. Clique em **Finish** para criar seu projeto.
 
 ##### Arquivos do Projeto
+
 Após um tempo o projeto é criado e podemos ver varios arquivos e pastas criadas:
+
 1. *app/manifest/AndroidManifest.xml*
     * Arquivo que descreve as caracteriscas fundamentais do projeto
 2. *app/java/com.example.perta*
