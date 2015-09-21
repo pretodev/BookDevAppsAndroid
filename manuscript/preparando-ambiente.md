@@ -147,10 +147,11 @@ O JDK é fundamental para o desenvolvimento Android, sendo necessário ter a ver
 	<center>![Concluído](http://1.bp.blogspot.com/-AZFb8Zj1xu8/VgA-SB4i-1I/AAAAAAAAAgc/IaAaWWFpJBk/s400/5.PNG) </center>
 4. Inicie o Android Studio, clique em **Next** nas janelas e espere baixar todos os componentes
 	<center>![Baixando](http://3.bp.blogspot.com/-QMy6PLckArg/VgA-Sb4Jl5I/AAAAAAAAAgg/5TkngidOeKU/s400/6.PNG) </center>
-5.Conclua!
+5. Conclua a instalação!
 	<center>![Completo](http://4.bp.blogspot.com/-XtxVBPZa3Qo/VgA-SXJCmMI/AAAAAAAAAgk/UxbrkGf2kDo/s400/7.PNG) </center>
-6. Pronto!
+6. Pronto
 	<center>![Pronto](http://2.bp.blogspot.com/-HXqCIizM8ng/VgA-Sk9oL6I/AAAAAAAAAgs/_Cel53LWBWA/s400/8.PNG) </center>
+	
 
 ## Instalando Pacotes necessários (Android SDK)
 
