@@ -83,15 +83,15 @@ O JDK é fundamental para o desenvolvimento Android, sendo necessário ter a ver
 6. Na aba **Avançado**, clique em **Variáveis de Ambiente**
 
 	<center>![Variáveis](http://3.bp.blogspot.com/-EvlAn8bhD2c/VgAvFfqZszI/AAAAAAAAAfM/QXeZ_dhE1vU/s1600/j6.PNG)</center>
-	
 7. Em **"variáveis do sistema"** clique em **"Novo..."** e crie uma variável chamada `JAVA_HOME` com o valor igual ao caminho que você instalou o Java, nomalmente é `C:\Program Files\Java\jdk-versão`
 	
 	<center>![Java Home](http://1.bp.blogspot.com/-UAWxkbnJhio/VgAvFh6RsGI/AAAAAAAAAfQ/qQSPYxUKJL8/s1600/j7.PNG)</center>
 	<center>![Java Home](http://1.bp.blogspot.com/-3EJkrDxkDlI/VgAvFiO11yI/AAAAAAAAAfU/uPr0GvO4Zck/s1600/j8.PNG)</center>
-6.  Em **"variáveis do sistema"** edite a variável Path acrescentando `;%JAVA_HOME%\bin` ou `C:\Program Files\Java\jdk-versão\bin` ao final do valor
+8.  Em **"variáveis do sistema"** edite a variável Path acrescentando `;%JAVA_HOME%\bin` ou `C:\Program Files\Java\jdk-versão\bin` ao final do valor
+
 	<center>![Java Home](http://1.bp.blogspot.com/-UAWxkbnJhio/VgAvFh6RsGI/AAAAAAAAAfQ/qQSPYxUKJL8/s1600/j7.PNG)</center>
 	<center>![Path](http://2.bp.blogspot.com/--s8csCpZRHM/VgAvF64fIsI/AAAAAAAAAfY/zg6mdlvX2O8/s1600/j9.PNG)</center>
-7. Pronto!
+9. Pronto!
 
 ## Instalando Android Studio
 
@@ -137,18 +137,23 @@ O JDK é fundamental para o desenvolvimento Android, sendo necessário ter a ver
 ### Instalando no Windows
 
 1. Baixe o Android Studio em https://developer.android.com/sdk/index.html
+
 	<center>![Download](http://1.bp.blogspot.com/-CfjwqgGr9Jg/VgA-Rns_7bI/AAAAAAAAAgQ/Rv-2iE-WXTY/s400/1.PNG) </center>
 2. Inicie a instalação
 	<center>![Icone](http://1.bp.blogspot.com/-qbRXniy7Cjw/VgA-RosEEhI/AAAAAAAAAgM/3atDVsvwM_k/s1600/2.PNG) </center>
 3. No assistente de instalação, clique em **Next** até concluir a instalação
-	<center>![Instalação](http://4.bp.blogspot.com/-7zTbc2rKtdE/VgA-Rn_LfxI/AAAAAAAAAgI/tiU9aLMi0UI/s400/3.PNG) </center>
-	<center>![Concluído](http://1.bp.blogspot.com/-AZFb8Zj1xu8/VgA-SB4i-1I/AAAAAAAAAgc/IaAaWWFpJBk/s400/5.PNG) </center>
+
+<center>![Instalação](http://4.bp.blogspot.com/-7zTbc2rKtdE/VgA-Rn_LfxI/AAAAAAAAAgI/tiU9aLMi0UI/s400/3.PNG) </center>
+<center>![Concluído](http://1.bp.blogspot.com/-AZFb8Zj1xu8/VgA-SB4i-1I/AAAAAAAAAgc/IaAaWWFpJBk/s400/5.PNG) </center>
 4. Inicie o Android Studio, clique em **Next** nas janelas e espere baixar todos os componentes
-	<center>![Baixando](http://3.bp.blogspot.com/-QMy6PLckArg/VgA-Sb4Jl5I/AAAAAAAAAgg/5TkngidOeKU/s400/6.PNG) </center>
+
+<center>![Baixando](http://3.bp.blogspot.com/-QMy6PLckArg/VgA-Sb4Jl5I/AAAAAAAAAgg/5TkngidOeKU/s400/6.PNG) </center>
 5.Conclua!
-	<center>![Completo](http://4.bp.blogspot.com/-XtxVBPZa3Qo/VgA-SXJCmMI/AAAAAAAAAgk/UxbrkGf2kDo/s400/7.PNG) </center>
+
+<center>![Completo](http://4.bp.blogspot.com/-XtxVBPZa3Qo/VgA-SXJCmMI/AAAAAAAAAgk/UxbrkGf2kDo/s400/7.PNG) </center>
 6. Pronto!
-	<center>![Pronto](http://2.bp.blogspot.com/-HXqCIizM8ng/VgA-Sk9oL6I/AAAAAAAAAgs/_Cel53LWBWA/s400/8.PNG) </center>
+
+<center>![Pronto](http://2.bp.blogspot.com/-HXqCIizM8ng/VgA-Sk9oL6I/AAAAAAAAAgs/_Cel53LWBWA/s400/8.PNG) </center>
 
 
 ## Instalando Pacotes necessários (Android SDK)
