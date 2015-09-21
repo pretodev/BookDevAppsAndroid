@@ -151,6 +151,7 @@ O JDK é fundamental para o desenvolvimento Android, sendo necessário ter a ver
 	<center>![Completo](http://4.bp.blogspot.com/-XtxVBPZa3Qo/VgA-SXJCmMI/AAAAAAAAAgk/UxbrkGf2kDo/s400/7.PNG) </center>
 6. Pronto
 	<center>![Pronto](http://2.bp.blogspot.com/-HXqCIizM8ng/VgA-Sk9oL6I/AAAAAAAAAgs/_Cel53LWBWA/s400/8.PNG) </center>
+
 	
 
 ## Instalando Pacotes necessários (Android SDK)
