@@ -134,6 +134,7 @@ O JDK é fundamental para o desenvolvimento Android, sendo necessário ter a ver
 10. Pronto! A tela inicial será exibida
 
 	<center>![janela](http://1.bp.blogspot.com/--StoPYJUzB0/Vf76f96KVLI/AAAAAAAAAeE/38ndKeQyQHI/s400/7.png) </center>
+
 ### Instalando no Windows
 
 1. Baixe o Android Studio em https://developer.android.com/sdk/index.html
@@ -148,9 +149,11 @@ O JDK é fundamental para o desenvolvimento Android, sendo necessário ter a ver
 4. Inicie o Android Studio, clique em **Next** nas janelas e espere baixar todos os componentes
 
 <center>![Baixando](http://3.bp.blogspot.com/-QMy6PLckArg/VgA-Sb4Jl5I/AAAAAAAAAgg/5TkngidOeKU/s400/6.PNG) </center>
+
 5.Conclua!
 
 <center>![Completo](http://4.bp.blogspot.com/-XtxVBPZa3Qo/VgA-SXJCmMI/AAAAAAAAAgk/UxbrkGf2kDo/s400/7.PNG) </center>
+
 6. Pronto!
 
 <center>![Pronto](http://2.bp.blogspot.com/-HXqCIizM8ng/VgA-Sk9oL6I/AAAAAAAAAgs/_Cel53LWBWA/s400/8.PNG) </center>
